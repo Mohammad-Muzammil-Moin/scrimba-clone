@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.js": "/scrimba-clone/static/js/main.72a5e6b6.chunk.js",
-    "main.js.map": "/scrimba-clone/static/js/main.72a5e6b6.chunk.js.map",
+    "main.js": "/scrimba-clone/static/js/main.72f6f8e2.chunk.js",
+    "main.js.map": "/scrimba-clone/static/js/main.72f6f8e2.chunk.js.map",
     "runtime-main.js": "/scrimba-clone/static/js/runtime-main.6f15ca94.js",
     "runtime-main.js.map": "/scrimba-clone/static/js/runtime-main.6f15ca94.js.map",
-    "static/js/2.65db7076.chunk.js": "/scrimba-clone/static/js/2.65db7076.chunk.js",
-    "static/js/2.65db7076.chunk.js.map": "/scrimba-clone/static/js/2.65db7076.chunk.js.map",
+    "static/js/2.a6fc97df.chunk.js": "/scrimba-clone/static/js/2.a6fc97df.chunk.js",
+    "static/js/2.a6fc97df.chunk.js.map": "/scrimba-clone/static/js/2.a6fc97df.chunk.js.map",
     "static/js/3.5f530a47.chunk.js": "/scrimba-clone/static/js/3.5f530a47.chunk.js",
     "static/js/3.5f530a47.chunk.js.map": "/scrimba-clone/static/js/3.5f530a47.chunk.js.map",
     "index.html": "/scrimba-clone/index.html",
-    "static/js/2.65db7076.chunk.js.LICENSE.txt": "/scrimba-clone/static/js/2.65db7076.chunk.js.LICENSE.txt",
+    "static/js/2.a6fc97df.chunk.js.LICENSE.txt": "/scrimba-clone/static/js/2.a6fc97df.chunk.js.LICENSE.txt",
+    "static/media/Alien-Transparent-Background.73a46e06.png": "/scrimba-clone/static/media/Alien-Transparent-Background.73a46e06.png",
+    "static/media/Coder-PNG-Clipart.41da0351.png": "/scrimba-clone/static/media/Coder-PNG-Clipart.41da0351.png",
     "static/media/pngfind.com-youtube-live-png-1273085.2c2143c4.png": "/scrimba-clone/static/media/pngfind.com-youtube-live-png-1273085.2c2143c4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6f15ca94.js",
-    "static/js/2.65db7076.chunk.js",
-    "static/js/main.72a5e6b6.chunk.js"
+    "static/js/2.a6fc97df.chunk.js",
+    "static/js/main.72f6f8e2.chunk.js"
   ]
 }
